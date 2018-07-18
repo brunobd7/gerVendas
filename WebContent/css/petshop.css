@@ -1,0 +1,33 @@
+/*.container{
+    margin-right: auto;
+    margin-left: auto;
+    background: #FFFFCC
+}
+.painel{
+margin: 10px 0;
+padding: 10px;
+width: 445px;
+}
+
+
+header{
+    position: relative;
+    background: #FF8C00;
+}*/
+
+.menu-opcoes{
+    
+    bottom: 0;
+    right: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+body {
+margin: 0 auto;
+width: 940px;
+background: #BEBEBE;
+
+}
+ul li{
+    display: inline;
+}
